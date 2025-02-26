@@ -4,9 +4,8 @@ const Ali = () => {
   return (
     <div>
       <button>ALI HUSNIAIN</button>
-
     </div>
   )
 }
 
-export default Ali
+export default Ali;
