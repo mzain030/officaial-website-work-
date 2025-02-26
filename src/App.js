@@ -3,6 +3,7 @@ import './App.css';
 import Zain from './components/Zain';
 import Junaidkhan from './components/Junaidkhan';
 import Bilal from './components/Bilal';
+import Ali from './components/Ali';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       {/* <Junaidkhan/> */}
      <Zain/>
      <Bilal/>
+     <Ali/>
     </div>
   );
 }
