@@ -4,6 +4,7 @@ import Zain from './components/Zain';
 import Junaidkhan from './components/Junaidkhan';
 import Bilal from './components/Bilal';
 import Ali from './components/Ali';
+import Practice from './components/Practice';
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
      <Zain/>
      <Bilal/>
      <Ali/>
-     <Practice
+     <Practice/>
     </div>
   );
 }
