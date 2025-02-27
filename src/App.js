@@ -8,10 +8,11 @@ import Ali from './components/Ali';
 function App() {
   return (
     <div className="App">
-      {/* <Junaidkhan/> */}
+      <Junaidkhan/>
      <Zain/>
      <Bilal/>
      <Ali/>
+     <Practice
     </div>
   );
 }
