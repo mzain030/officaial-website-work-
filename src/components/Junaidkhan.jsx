@@ -11,7 +11,7 @@ const newobject={
 
   return (
     <div>
-      <input>Junaidkhan</input>
+
     <mytask.Provider value={newobject}>
       <JunaidKhany/>
     </mytask.Provider>

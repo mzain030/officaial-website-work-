@@ -10,7 +10,7 @@ import Pracitce from './components/Pracitce';
 function App() {
   return (
     <div className="App">
-      {/* <Junaidkhan/> */}
+      <Junaidkhan/>
      <Zain/>
      <Bilal/>
      <Ali/>
