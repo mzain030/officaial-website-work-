@@ -12,9 +12,10 @@ function App() {
     <div className="App">
       <Junaidkhan/>
      <Zain/>
+     <h1>Bilal Work</h1>
      <Bilal/>
-     <Ali/>
      <Pracitce/>
+     <Ali/>
     </div>
   );
 }
